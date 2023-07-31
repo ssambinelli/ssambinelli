@@ -3,7 +3,7 @@
 
 - :closed_book: Recent graduate from Coding Dojo Software Development Bootcamp and currently persuing a Computer Science Degree
   
-- :green_book: I have a background in Data Analysis, tech and chemistry 
+- :green_book: I have a background in Data Analysis, Tech and Chemistry 
 
 - 👨‍💻 You can check some of my projects at [https://ssambinelli.github.io/portfolio/](https://ssambinelli.github.io/portfolio/)
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sabrinasambinelli/](https://www.linkedin.com/in/sabrinasambinelli/)
 
-- :zap: Currently fluent in two languages (English and Portuguese) and working on improve my knoledge on Intalian and Spanish
+- :zap: Currently fluent in two languages (English and Portuguese) and working on improve my knowledge on Intalian and Spanish
 
   
 <h3 align="left">Connect with me:</h3>
