@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sabrinasambinelli/](https://www.linkedin.com/in/sabrinasambinelli/)
 
-- ⚡ Fun fact **I'm fluent in two languages and currently learning two others**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
