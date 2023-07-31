@@ -1,13 +1,19 @@
 <h1 align="center">Hi there 👋, I'm Sabrina</h1>
 <h3 align="center">A curious Software Engineer living in USA</h3>
 
-- 👨‍💻 Some of my projects are available at [https://ssambinelli.github.io/portfolio/](https://ssambinelli.github.io/portfolio/)
+- :closed_book: Recent graduate from Coding Dojo Software Development Bootcamp and currently persuing a Computer Science Degree
+  
+- :green_book: I have a background in Data Analysis, tech and chemistry 
+
+- 👨‍💻 You can check some of my projects at [https://ssambinelli.github.io/portfolio/](https://ssambinelli.github.io/portfolio/)
 
 - 📫 How to reach me **ssambinelli@icloud.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sabrinasambinelli/](https://www.linkedin.com/in/sabrinasambinelli/)
 
+- :zap: Currently fluent in two languages (English and Portuguese) and working on improve my knoledge on Intalian and Spanish
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sabrinasambinelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sabrinasambinelli" height="30" width="40" /></a>
