@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sabrina</h1>
+<h1 align="center">Hi there 👋,  I'm Sabrina</h1>
 <h3 align="center">A curious Software Engineer living in USA</h3>
 
 - :closed_book: Recent graduate from Coding Dojo Software Development Bootcamp and currently persuing a Computer Science Degree
