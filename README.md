@@ -2,8 +2,9 @@
 <h3 align="center">A curious Software Engineer living in USA, passionate about life, experiences and knowledge</h3>
 
 - :closed_book: A eternal student recent graduated from Coding Dojo Software Development Bootcamp and currently persuing a Computer Science Degree and a background in Data Analysis, Tech and Chemistry 
+![giphy](https://github.com/ssambinelli/ssambinelli/assets/86628492/e9a5be86-8c92-44cd-8261-8473815ca489)
 
-<iframe src="https://giphy.com/embed/YAnpMSHcurJVS" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/day-work-YAnpMSHcurJVS">via GIPHY</a></p>
+
 - 👩🏻‍💻 I'm currently working on Barber Shop Manager | Wedding Planner
   You can check some of my projects at [https://ssambinelli.github.io/portfolio/](https://ssambinelli.github.io/portfolio/)
 
