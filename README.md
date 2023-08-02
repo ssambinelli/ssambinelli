@@ -1,7 +1,10 @@
 <h1 align="center">Hi there,  I'm Sabrina 👋🏻 </h1>
 <h3 align="center">A curious Software Engineer living in USA, passionate about life, experiences and knowledge</h3>
 
-- :closed_book: A eternal student recent graduated from Coding Dojo Software Development Bootcamp and currently persuing a Computer Science Degree and a background in Data Analysis, Tech and Chemistry 
+- :closed_book: A eternal student recent graduated from Coding Dojo Software Development Bootcamp and currently persuing a Computer Science Degree and a background in Data Analysis, Tech and Chemistry
+
+
+
 ![giphy](https://github.com/ssambinelli/ssambinelli/assets/86628492/e9a5be86-8c92-44cd-8261-8473815ca489)
 
 
