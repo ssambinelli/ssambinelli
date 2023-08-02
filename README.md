@@ -40,8 +40,10 @@
 
 - Frontend Development: CSS, HTML, ReactJS, Bootstrap, Tailwind
   
-- Babckend Development: NodeJS, Express.js, Flask, Bcrypt, JSON, EJS, npm, Socket.IO, Redis, Spring Boot
-  
+- Backend Development: NodeJS, Express.js, Flask, Bcrypt, JSON, EJS, npm, Socket.IO, Redis, Spring Boot
+
+- Engines: Unity
+
 - Databases MySQL, MongoDB, SQLite
 
 - DevOps: AWS
