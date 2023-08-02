@@ -13,13 +13,13 @@
 
 - 👩🏻‍💻 I'm currently working on Barber Shop Manager | Wedding Planner
 
-  You can check some of my projects at [https://ssambinelli.github.io/portfolio/](https://ssambinelli.github.io/portfolio/)
+- :computer: You can check some of my projects at [https://ssambinelli.github.io/portfolio/](https://ssambinelli.github.io/portfolio/)
 
 - 📫 How to reach me **ssambinelli@icloud.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sabrinasambinelli/](https://www.linkedin.com/in/sabrinasambinelli/)
 
-- :zap: As an aspiring polyglot, I love to study languages and cultures. I am fluent in two languages (English and Portuguese) and working on improve my knowledge on Intalian and Spanish.
+- ⚡ As an aspiring polyglot, I love to study languages and cultures. I am fluent in two languages (English and Portuguese) and working on improve my knowledge on Intalian and Spanish.
 
   
 <h3 align="center">Connect with me:</h3>
