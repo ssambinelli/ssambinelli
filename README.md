@@ -12,6 +12,7 @@
 
 
 - 👩🏻‍💻 I'm currently working on Barber Shop Manager | Wedding Planner
+
   You can check some of my projects at [https://ssambinelli.github.io/portfolio/](https://ssambinelli.github.io/portfolio/)
 
 - 📫 How to reach me **ssambinelli@icloud.com**
