@@ -3,9 +3,11 @@
 
 - :closed_book: A eternal student recent graduated from Coding Dojo Software Development Bootcamp and currently persuing a Computer Science Degree and a background in Data Analysis, Tech and Chemistry
 
-
-<p align="center" ![giphy](https://github.com/ssambinelli/ssambinelli/assets/86628492/e814ddf9-0ce6-44cf-a33d-77f6f9580c9a)
+<p align="center">
+  
+![giphy](https://github.com/ssambinelli/ssambinelli/assets/86628492/e814ddf9-0ce6-44cf-a33d-77f6f9580c9a)
 </p>
+
   
 
 
